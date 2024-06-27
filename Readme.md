@@ -2,6 +2,8 @@
 
 The Animated Search Bar tutorial guides you through creating a sleek and interactive search box using only HTML and CSS. This project focuses on designing a modern search bar that features smooth animations and transitions, enhancing the overall user experience.
 
+Youtube Tutorial Link: https://youtu.be/3T64DAm8IWg
+
 ![Animated Search Bar](SearchBar.png)
 
 By utilizing HTML for the structure and CSS for styling and animation, you will learn how to create a visually appealing and functional search bar. The tutorial covers key CSS techniques such as transitions, transforms, and pseudo-elements to achieve the animated effect.
